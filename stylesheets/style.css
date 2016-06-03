@@ -2,3 +2,15 @@
   width: 20%;
   height: 20%;
 }
+
+.panel-left {
+  float: left;
+}
+
+.panel-right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
